@@ -1,0 +1,24 @@
+_repo: Redmanship-in-Kentucky-for-Fifty-Great-Suns_46275
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46275-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Frank L.
+    gutenberg_agent_id: '43694'
+    url: http://www.gutenberg.org/2009/agents/43694
+description: ''
+gutenberg_issued: '2014-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Improved Order of Red Men. Great Council of Kentucky'
+title: Redmanship in Kentucky for Fifty Great Suns
+url: http://www.gutenberg.org/ebooks/46275
